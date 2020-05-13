@@ -2,9 +2,29 @@ body {
     background-color: #604fdd;
 }
 
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: darkorange;
+    text-align: left;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: darkorange;
+    text-align: left;
+}
 p {
-    font-family:Helvetica;
+    font-family:'Courier New', Courier, monospace;
     font-size: 80px;
     color: #52d6d3;
     text-align: center;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: darkorange;
+    text-align: left;
 }
